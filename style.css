@@ -1,0 +1,38 @@
+h1 {
+  color: pink;
+  text-align: center;
+}
+
+h4 {
+  height: 25px;
+  width: 300px;
+  padding: 20px;
+  background-color: pink;
+  text-align: center;
+  display: grid;
+  align-content: space-around;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  border-radius: 64px;
+  padding: 35px;
+  display: block;
+  margin: auto;
+}
+.mission{text-align: center;
+  font-size: x-large;
+  color: #f58cc7;
+}
+a{color: rgb(10, 8, 26);}
+.Quote{text-align: center;
+font-size: xx-large;
+color: rgb(241, 137, 207);}
