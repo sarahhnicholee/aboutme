@@ -44,3 +44,19 @@ color: rgb(241, 137, 207)
 height: 500px;
 border-radius: 20%;
 }
+
+.thankYou{
+  color: pink;
+  text-align: center;
+  font-size: xx-large;
+  background-color: black;
+  margin-top: 30%;
+  ;
+}
+
+h2{
+  text-align: center;
+}
+form{
+  text-align: center;
+}
